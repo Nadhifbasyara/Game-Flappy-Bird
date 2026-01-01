@@ -73,13 +73,12 @@ python flappy_bird.py
 
 ## 🧠 Alur Game
 ```MENU
-↓ SPACE
+ ↓ SPACE
 PLAYING
-↓ Tabrakan
+ ↓ Tabrakan
 GAME OVER
-↓ SPACE → Restart
-↓ ESC   → Menu
-
+ ↓ SPACE → Restart
+ ↓ ESC   → Menu
 ```
 
 ---
