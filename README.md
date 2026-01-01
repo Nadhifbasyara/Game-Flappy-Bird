@@ -72,7 +72,8 @@ python flappy_bird.py
 ---
 
 ## 🧠 Alur Game
-```MENU
+```
+MENU
  ↓ SPACE
 PLAYING
  ↓ Tabrakan
