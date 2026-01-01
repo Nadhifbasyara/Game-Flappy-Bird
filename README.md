@@ -44,7 +44,7 @@ FlappyBird/
 └── README.md
 ```
 
-> ⚠️ Pastikan file `bird.png` berada di **folder yang sama** dengan `flappy_bird.py`
+> ⚠️ Pastikan file `bird.png`, `jump.wav`, `score.wav`, `gameover.wav` berada di **folder yang sama** dengan `flappy_bird.py`
 
 ---
 
