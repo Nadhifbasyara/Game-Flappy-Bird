@@ -86,10 +86,10 @@ GAME OVER
 
 
 ## 🚀 Pengembangan Selanjutnya
-🎶 Background music (menu & gameplay)
-⭐ Efek NEW HIGH SCORE
-🖱️ Tombol menu menggunakan mouse
-💾 Simpan nama pemain
-📦 Export game menjadi file .exe
+- 🎶 Background music (menu & gameplay)
+- ⭐ Efek NEW HIGH SCORE
+- 🖱️ Tombol menu menggunakan mouse
+- 💾 Simpan nama pemain
+- 📦 Export game menjadi file .exe
 
 ---
